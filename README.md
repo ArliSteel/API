@@ -8,3 +8,6 @@
 📃 [Task](https://drive.google.com/file/d/1fyB-gfCWzhmsoVos4VL_icD_09KTKEat/view?usp=sharing)
 <br>💾 [Collection](https://drive.google.com/file/d/1nwfAAp05HuIdAV67U9ywMWUlaWZ2Yxv3/view?usp=sharing)
 <br>🖼️ [Screenshot confirmation](https://drive.google.com/file/d/1OILfHJXKDRrGPrxl5BLZreOeJEEuvWWk/view?usp=sharing)
+
+### ❌ Поиск ошибок в запросе к API.
+📃 [Task](https://docs.google.com/document/d/1ErMZaIKXwHAsSK_gqn0ojD7VEpyvlzZrPXCoYYYKdrg/edit?usp=sharing)
